@@ -263,3 +263,4 @@ Contact us
 Report misconduct
 Home
 
+The name of AI is Geredi AI
